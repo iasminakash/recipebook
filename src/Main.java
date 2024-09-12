@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Recipe of pasta");
 
         System.out.println("Ingredients");
+        System.out.println("-Kokar 1 lt vatten med salt");
     }
 }

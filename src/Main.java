@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Kycklinggryta med curry");
-        /*Ingredienser:
+        System.out.println("Ingredienser:");
         700 g Kycklingfilé
                 2 röda paprikor
                 2 gula lökar
@@ -15,6 +15,10 @@ public class Main {
                 2 krm svartpeppar*/
 
         System.out.println("Instruktioner");
-        /*1. Skär kyckling*/
+        /*1. Skär kycklingfiléerna i bitar
+        * 2. Skölj, kärna ur och skär paprikan i bitar
+        * 3. Skala och skär löken i klyftor
+        * 4. Bryn kycklingen i smör i en stor gryta
+        * 5. Tillsätt paprika, lök, curry och paprikapulver */
     }
 }

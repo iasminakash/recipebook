@@ -8,5 +8,9 @@ public class Main {
         System.out.println("~50 gramms of Parmesam cheese");
         System.out.println("1 tpsp of salt");
         System.out.println("_______________________");
+        System.out.println("1. Boil some salty water");
+        System.out.println("2. When the water starts to boil add the pasta");
+        System.out.println("3. Cook pasta for around 5-7 minutes");
+        System.out.println("4. ");
     }
 }
